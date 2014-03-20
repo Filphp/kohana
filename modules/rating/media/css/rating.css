@@ -1,0 +1,13 @@
+.rating .plus, .rating .minus {background: url("../images/thumb.png") no-repeat; width:16px; height:16px; margin:0 2px; display:inline-block; cursor:pointer;}
+.rating_arithmetic .minus {background-position: right top;}
+.rating_arithmetic .plus {background-position: left top;}
+.rating_hands .minus {background-position: right bottom;}
+.rating_hands .plus {background-position: left bottom;}
+.rating_arithmetic span {font-size:18px;}
+.rating_hands span {font-size:18px;}
+
+.rating_arithmetic .mark_minus {color:#F00;}
+.rating_arithmetic .mark_plus {color:#0C0;}
+
+.rating_hands .mark_minus {color:#F00;}
+.rating_hands .mark_plus {color:#0C0;}
